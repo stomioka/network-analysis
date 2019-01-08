@@ -1,4 +1,4 @@
-# Network Analysis
+# Notes on Network Analysis
 
 * [1-1 Networks](notebooks/1-1-networks.ipynb)
 * [1-2 Network Definition](notebooks/1-2-network-definition.ipynb)
