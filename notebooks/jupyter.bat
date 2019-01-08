@@ -1,0 +1,1 @@
+C:\Users\sam\Anaconda3\python.exe C:\Users\sam\Anaconda3\cwp.py C:\Users\sam\Anaconda3 C:\Users\sam\Anaconda3\python.exe C:\Users\sam\Anaconda3\Scripts\jupyter-lab-script.py G:\GoogleDrive\python\applied_social_network
